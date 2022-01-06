@@ -1,0 +1,2 @@
+FLASK_APP=myweight
+FLASK_ENV=development
